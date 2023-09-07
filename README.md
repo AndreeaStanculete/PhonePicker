@@ -6,9 +6,10 @@
 ![account](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/481b4445-bccd-40c5-9c68-5311f1cf725f)
 ![accounts](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/e688a024-40a0-4798-9db6-03db7680d0fd)
 
-![4](https://user-images.githubusercontent.com/93536051/232206840-3853fe64-c3fc-45d1-aa96-af767a770493.png)
-![5](https://user-images.githubusercontent.com/93536051/232206842-10497411-082b-46dd-aa8b-77e3236bc3d7.png)
-![2](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/3e94ce69-3581-4438-9c51-cffc28a27d5c)
+![phones](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/c917ee0a-322b-41ec-8561-c282a2d27ea8)
+![date](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/f4642f8d-9665-4d10-b37f-777d76731e67)
+
+![date2](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/ab1e09b8-7c98-466d-a2af-5bb96aa5cac6)
 
 
 
