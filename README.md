@@ -1,4 +1,6 @@
-# PhonePicker is an informative web application about phones. 
+# PhonePicker 
+
+This is an informative web application about phones. 
 
 The user can browse information on the website or ask MiraBot, a chatbot made with Conferbot for free. [https://www.conferbot.com/] 
 
