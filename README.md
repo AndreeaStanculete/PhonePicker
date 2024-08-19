@@ -1,8 +1,8 @@
-#PhonePicker is an informative web application about phones. 
+PhonePicker is an informative web application about phones. 
 
-##The user can browse information on the website or ask MiraBot, a chatbot made with Conferbot for free. [https://www.conferbot.com/] 
+The user can browse information on the website or ask MiraBot, a chatbot made with Conferbot for free. [https://www.conferbot.com/] 
 
-##Upon registering, users can check for the top 21 popular phones and give their own opinions, interactions which can be seen from their account as well. 
+Upon registering, users can check for the top 21 popular phones and give their own opinions, interactions which can be seen from their account as well. 
 
 ![1](https://user-images.githubusercontent.com/93536051/229297380-8688757c-0a56-43f7-bdf7-60c0505fa3c0.png)
 ![tel](https://github.com/AndreeaStanculete/Proiect-Colectiv/assets/93536051/15f24246-1b9f-441c-8443-6fd1640d8241)
